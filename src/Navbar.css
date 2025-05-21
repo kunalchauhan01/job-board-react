@@ -1,27 +1,24 @@
-header {
-  margin: 0;
-  padding: 0;
-}
+
 
 .navbar {
   margin-top: 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #333;
+  background: #d4ced4;
   padding: 1rem 2rem;
   border-radius: 0 0 10px 10px;
   margin-bottom: 2rem;
 }
 
 .navbar h1 {
-  color: #edf0eb;
+  color: #0c0217;
   margin: 0;
   font-size: 3rem;
 }
 
 .navbar .links a {
-  color: #fff;
+  color: #0d0101;
   text-decoration: none;
   margin-left: 1.5rem;
   padding: 0.5rem 1rem;
@@ -29,6 +26,6 @@ header {
 }
 
 .navbar .links a:hover {
-  background: #d6e108;
+  background: #5b5b5b;
   color: #fff;
 }
